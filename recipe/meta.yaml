@@ -1,7 +1,7 @@
 {% set name = "dash-renderer" %}
 {% set filename = "dash_renderer" %}
-{% set version = "0.19.0" %}
-{% set sha256 = "fcf7af6022fe522e611182b69ff4063a0b911fce1b1e42f6941ea2d0989c219b" %}
+{% set version = "0.20.0" %}
+{% set sha256 = "5c34b81ef62f5c8c38e89a5da32d6cc750a04c8cf1597918ca56e5d51000e9f2" %}
 
 package:
   name: {{ name|lower }}
