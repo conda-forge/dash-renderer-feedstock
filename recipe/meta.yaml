@@ -28,7 +28,6 @@ requirements:
 test:
   imports:
     - dash_renderer
-    - dash_renderer.version
 
 about:
   home: https://plot.ly/dash
