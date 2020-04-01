@@ -1,7 +1,7 @@
 {% set name = "dash-renderer" %}
 {% set filename = "dash_renderer" %}
-{% set version = "1.2.4" %}
-{% set sha256 = "74aab93b6332290d9bff5f81060a5c4cbf0c393f8ccff85b2edb1ae976bdd5f0" %}
+{% set version = "1.3.0" %}
+{% set sha256 = "2f656e12d3cfbadb0a4696270dc5e254db55a01e64ee6585820988c1a454de1e" %}
 
 package:
   name: {{ name|lower }}
@@ -34,8 +34,8 @@ about:
   dev_url: https://github.com/plotly/dash-renderer
   license: MIT
   license_family: MIT
-  license_file: '{{ environ["RECIPE_DIR"] }}/LICENSE'
-  summary: 'Front-end component renderer for dash'
+  license_file: {{ environ["RECIPE_DIR"] }}/LICENSE
+  summary: Front-end component renderer for dash
 
 extra:
   recipe-maintainers:
