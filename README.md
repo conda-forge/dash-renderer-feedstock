@@ -5,7 +5,7 @@ Home: https://plot.ly/dash
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Front-end component renderer for dash
 
