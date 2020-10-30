@@ -5,11 +5,11 @@ Home: https://plot.ly/dash
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dash-renderer-feedstock/blob/master/LICENSE.txt)
 
 Summary: Front-end component renderer for dash
 
-
+Development: https://github.com/plotly/dash-renderer
 
 Current build status
 ====================
